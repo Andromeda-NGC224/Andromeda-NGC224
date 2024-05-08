@@ -1,11 +1,11 @@
-<h1 align="center">Hi there 👋</p>
+<h1 align="left">Hi there 👋</h1>
 
-<h2 align="center"> I enjoy doing what I do and I love cats 😸</p>
+<h2 align="left"> I enjoy doing what I do and I love cats 😸</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Andromeda-NGC224&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andromeda-NGC224&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Most used languages"/>
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Andromeda-NGC224&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andromeda-NGC224&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
-🔨 My stack 
+<p>🔨 My stack </p>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Skills" align="left" width="60" height="80"/>  
