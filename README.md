@@ -2,8 +2,8 @@
 
 <h2 align="center"> I enjoy doing what I do and I love cats 😸</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Andromeda-NGC124&show_icons=true&locale=en" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andromeda-NGC224&show_icons=true&locale=en&layout=compact" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Andromeda-NGC224&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andromeda-NGC224&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Most used languages"/>
 
 🔨 My stack 
 
