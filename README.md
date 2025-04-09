@@ -15,4 +15,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="Skills" align="left" width="60" height="80"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Skills" align="left" width="60" height="80"/>     
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Skills" align="left" width="60" height="80"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Skills" align="left" width="60" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/nextjs-original.svg" alt="Skills" align="left" width="60" height="80"/>
